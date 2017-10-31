@@ -1,4 +1,6 @@
-** HOW TO USE
+***HOW TO USE***
+
+`go get github.com/gorilla/mux`
 
 `cd go-api-demo`
 
